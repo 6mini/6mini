@@ -8,4 +8,4 @@ I’m currently learning AI engineering in CodeStates
 
 </div>
 
-- Start 1day 1commit 2021. 8.19. ~
+- Start 1day 1commit 2021. 8.15. ~
