@@ -9,3 +9,9 @@ I’m currently learning AI engineering in CodeStates
 </div>
 
 - Start 1day 1commit 2021. 8.15. ~
+
+<div align=center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6mini&count_private=true&show_icons=true&theme=graywhite)
+  
+</div>
