@@ -10,8 +10,27 @@ I’m currently learning AI engineering in CodeStates
 
 - Start 1day 1commit 2021. 8.15. ~
 
+
+
+<details>
+  
+<summary>6mini's GitHub Stats</summary>
+  
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6mini&count_private=true&show_icons=true&theme=graywhite)
+![6mini's GitHub stats](https://github-readme-stats.vercel.app/api?username=6mini&count_private=true&show_icons=true&theme=graywhite)
+
+</div>
   
+</details>
+
+<details>
+<summary>6mini's Top langs</summary>
+
+<div align=center>
+
+![6mini's Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6mini&langs_count=8)
+
+</div>
+</details>
 </div>
