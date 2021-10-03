@@ -29,7 +29,7 @@ I’m currently learning AI engineering in CodeStates
 
 <div align=center>
 
-![6mini's Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6mini&langs_count=8)
+![6mini's Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6mini&langs_count=5)
 
 </div>
 </details>
