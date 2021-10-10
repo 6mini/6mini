@@ -2,13 +2,23 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6mini&count_bg=%23AAAAAA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/6mini)
 
-### Hi there!
+### hello world! 🙋🏻‍♂️ i'm 6mini!
 
-I’m currently learning AI engineering in CodeStates
-
+I’m currently learning AI Engineering<br>
+(Data Engineering, Machine Learning, Deep Learning)
+  
 </div>
 
-- Start 1day 1commit 2021. 8.15. ~
+```py
+def JUST_DO_IT(person):
+  return '{} is having FUN!'.format(person)
+
+print(JUST_DO_IT('6mini')) # 6mini is having FUN!
+```
+
+- 🛩 Navy Air Crew Sergeant 2013. 4. 1. ~ 2021. 2.28.
+- 💻 Codestates AI 5th 2021. 7. 8. ~ 
+- 📑 Start 1day 1commit 2021. 8.15. ~
 
 
 
