@@ -77,6 +77,8 @@ print(JUST_DO_IT('6mini')) # 6mini is having FUN!
 
 </div>
 
+---
+
 <details>
   
 <summary>6mini's GitHub Stats</summary>
