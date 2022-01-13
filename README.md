@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YoonminLee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Data%20Engineer&descAlignY=51&descAlign=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=300&section=header&text=YoonminLee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jr.%20Data%20Engineer&descAlignY=51&descAlign=70&fontColor=2E2E2E)
 
 <div align=center>
   
@@ -6,8 +6,8 @@
 
 ### Hello, World! 🙋🏻‍♂️ I'm 6mini!
 
-평생 야망을 가진 소년으로 살고 싶은 주니어 데이터 직군 개발자<br>
-데이터 엔지니어링에 푹 빠져있으며, 정리와 기록을 즐깁니다.
+평생 야망을 가진 소년으로 살고 싶은 주니어 데이터 엔지니어<br>
+빠르게 성장하는 일에 푹 빠져있으며, 정리와 기록을 즐깁니다.
   
 <a href="https://6mini.github.io/" rel="nofollow"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a></a>
 <a href="mailto:real6mini@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
@@ -26,11 +26,13 @@ print(JUST_DO_IT('6mini')) # 6mini is having FUN!
 - 💻 **Codestates AI 5th** 2021. 7. 8. ~ 2022. 1.27.
 - 📑 **1day 1commit** 2021. 8.15. ~
 
-## 🛠 Tech Stack
-
-<div align=center>
+<details>
   
-### Data Science
+<summary>6mini's Tech Stack</summary>
+  
+<div align=center>
+
+  ### Data Science
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
@@ -67,8 +69,8 @@ print(JUST_DO_IT('6mini')) # 6mini is having FUN!
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
 
 </div>
-
----
+  
+</details>
 
 <details>
   
