@@ -22,11 +22,11 @@ def JUST_DO_IT(person):
 print(JUST_DO_IT('6mini')) # 6mini is having FUN!
 ```
 
-- 🛩 **Navy Air Crew Sergeant** 2013. 4. 1. ~ 2021. 2.28.
-- 📑 **Tech Blog** 2021. 5.29. ~
+- 🛩 **Navy Air Crew Sergeant** 2013. 4. 1. - 2021. 2.28.
+- 📑 **Tech Blog** 2021. 5.29. - ing
 - 🤖 **Codestates AIB 5th** 2021. 7. 8. ~ 2022. 1.27.
-- 💻 **1day 1commit** 2021. 8. 8. 2022. 9.22.~
-- 🏢 **Moments Company Data Engineer** 2022. 2. 7. ~
+- 💻 **1day 1commit** 2021. 8. 8. - 2022. 9.22.
+- 🏢 **Moments Company Data Engineer** 2022. 2. 7. - ing
 
 <details>
   
