@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=300&section=header&text=YoonminLee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jr.%20Data%20Engineer&descAlignY=51&descAlign=70&fontColor=2E2E2E)
+![header](https://capsule-render.vercel.app/api?type=waving&color=117DBF&height=300&section=header&text=YoonminLee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer&descAlignY=51&descAlign=71&fontColor=2E2E2E)
 
 <div align=center>
   
