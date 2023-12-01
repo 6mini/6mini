@@ -6,27 +6,11 @@
 
 ### Hello, World! 🙋🏻‍♂️ I'm 6mini!
 
-평생 야망을 가진 소년으로 살고 싶은 주니어 데이터 엔지니어<br>
-지속 가능한 성장에 푹 빠져있으며, 정리와 기록을 즐깁니다.
-  
 <a href="mailto:real6mini@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
-<a href="https://6mini.github.io/" rel="nofollow"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a></a>
+<a href="https://yoonminlee.com/" rel="nofollow"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a></a>
 <a href="https://www.instagram.com/6mini/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></a>
   
 </div>
-
-```py
-def JUST_DO_IT(person):
-  return '{} is having FUN!'.format(person)
-
-print(JUST_DO_IT('6mini')) # 6mini is having FUN!
-```
-
-- 🛩 **Navy Air Crew Sergeant** 2013. 4. 1. - 2021. 2.28.
-- 📑 **Tech Blog** 2021. 5.29. - ing
-- 🤖 **Codestates AIB 5th** 2021. 7. 8. ~ 2022. 1.27.
-- 💻 **1day 1commit** 2021. 8. 8. - 2022. 9.22.
-- 🏢 **Moments Company Data Engineer** 2022. 2. 7. - ing
 
 <details>
   
