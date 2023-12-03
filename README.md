@@ -4,7 +4,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6mini&count_bg=%23AAAAAA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/6mini)
 
-### Hello, World! 🙋🏻‍♂️ I'm 6mini!
+### Hello, World! 🙋🏻‍♂️ I'm Yoonmin Lee!
 
 <a href="mailto:real6mini@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
 <a href="https://yoonminlee.com/" rel="nofollow"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a></a>
@@ -14,7 +14,7 @@
 
 <details>
   
-<summary>6mini's Tech Stack</summary>
+<summary>Tech Stack</summary>
   
 <div align=center>
 
@@ -60,7 +60,7 @@
 
 <details>
   
-<summary>6mini's GitHub Stats</summary>
+<summary>GitHub Stats</summary>
   
 <div align=center>
 
@@ -71,7 +71,7 @@
 </details>
 
 <details>
-<summary>6mini's Top langs</summary>
+<summary>Top langs</summary>
 
 <div align=center>
 
